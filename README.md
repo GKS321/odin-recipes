@@ -1,1 +1,1 @@
-This a project I am making using solely HTML while learning from The Odin Project.
+This a project I am making solely using HTML while learning from The Odin Project.
