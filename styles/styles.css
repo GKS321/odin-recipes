@@ -1,0 +1,20 @@
+.body{
+    background-color: #222930;
+    color: #4EB1BA;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.content{
+    font-size: 20px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+}
+
+  a:hover {
+    background-color: #4EB1BA;
+  }
